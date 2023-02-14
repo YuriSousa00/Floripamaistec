@@ -1,0 +1,15 @@
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\bin\Debug\net6.0\EXERCICIO3.exe
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\bin\Debug\net6.0\EXERCICIO3.deps.json
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\bin\Debug\net6.0\EXERCICIO3.runtimeconfig.json
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\bin\Debug\net6.0\EXERCICIO3.dll
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\bin\Debug\net6.0\EXERCICIO3.pdb
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\obj\Debug\net6.0\EXERCICIO3.csproj.AssemblyReference.cache
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\obj\Debug\net6.0\EXERCICIO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\obj\Debug\net6.0\EXERCICIO3.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\obj\Debug\net6.0\EXERCICIO3.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\obj\Debug\net6.0\EXERCICIO3.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\obj\Debug\net6.0\EXERCICIO3.dll
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\obj\Debug\net6.0\refint\EXERCICIO3.dll
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\obj\Debug\net6.0\EXERCICIO3.pdb
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\obj\Debug\net6.0\EXERCICIO3.genruntimeconfig.cache
+C:\Users\Meu computador\source\repos\EXERCICIO3\EXERCICIO3\obj\Debug\net6.0\ref\EXERCICIO3.dll

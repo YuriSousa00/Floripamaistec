@@ -1,4 +1,4 @@
-﻿using Exercicio5S4;
+﻿using Exercicio6S4;
 
 Cliente pessoaFisica = new Cliente("Bruno Costa", DateTime.Parse("1999-01-25"), "Desenvolvedor", "Casado", EnumTipoPessoa.FISICA);
 
@@ -18,5 +18,8 @@ contaCorrente.Depositar(200);
 contaCorrente.Sacar(50);
 contaCorrente.ExibirSaldo();
 
-
 ContaPoupanca contaPoupanca = new ContaPoupanca(1542, 1234, pessoaFisica);
+
+contaPoupanca.Depositar(200);
+contaPoupanca.Transferir(contaCorrente, 50);
+contaPoupanca.ExibirSaldo();

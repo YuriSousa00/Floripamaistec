@@ -1,0 +1,15 @@
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\bin\Debug\net7.0\Exercicio2S4.exe
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\bin\Debug\net7.0\Exercicio2S4.deps.json
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\bin\Debug\net7.0\Exercicio2S4.runtimeconfig.json
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\bin\Debug\net7.0\Exercicio2S4.dll
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\bin\Debug\net7.0\Exercicio2S4.pdb
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\obj\Debug\net7.0\Exercicio2S4.csproj.AssemblyReference.cache
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\obj\Debug\net7.0\Exercicio2S4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\obj\Debug\net7.0\Exercicio2S4.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\obj\Debug\net7.0\Exercicio2S4.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\obj\Debug\net7.0\Exercicio2S4.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\obj\Debug\net7.0\Exercicio2S4.dll
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\obj\Debug\net7.0\refint\Exercicio2S4.dll
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\obj\Debug\net7.0\Exercicio2S4.pdb
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\obj\Debug\net7.0\Exercicio2S4.genruntimeconfig.cache
+C:\Users\Meu computador\source\repos\Exercicio2S4\Exercicio2S4\obj\Debug\net7.0\ref\Exercicio2S4.dll

@@ -1,0 +1,15 @@
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\bin\Debug\net7.0\Exercicio6S4.exe
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\bin\Debug\net7.0\Exercicio6S4.deps.json
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\bin\Debug\net7.0\Exercicio6S4.runtimeconfig.json
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\bin\Debug\net7.0\Exercicio6S4.dll
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\bin\Debug\net7.0\Exercicio6S4.pdb
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\obj\Debug\net7.0\Exercicio6S4.csproj.AssemblyReference.cache
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\obj\Debug\net7.0\Exercicio6S4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\obj\Debug\net7.0\Exercicio6S4.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\obj\Debug\net7.0\Exercicio6S4.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\obj\Debug\net7.0\Exercicio6S4.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\obj\Debug\net7.0\Exercicio6S4.dll
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\obj\Debug\net7.0\refint\Exercicio6S4.dll
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\obj\Debug\net7.0\Exercicio6S4.pdb
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\obj\Debug\net7.0\Exercicio6S4.genruntimeconfig.cache
+C:\Users\Meu computador\source\repos\Exercicio6S4\Exercicio6S4\obj\Debug\net7.0\ref\Exercicio6S4.dll

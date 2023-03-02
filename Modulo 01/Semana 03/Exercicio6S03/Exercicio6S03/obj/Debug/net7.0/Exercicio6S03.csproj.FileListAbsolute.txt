@@ -1,0 +1,15 @@
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\bin\Debug\net7.0\Exercicio6S03.exe
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\bin\Debug\net7.0\Exercicio6S03.deps.json
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\bin\Debug\net7.0\Exercicio6S03.runtimeconfig.json
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\bin\Debug\net7.0\Exercicio6S03.dll
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\bin\Debug\net7.0\Exercicio6S03.pdb
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\obj\Debug\net7.0\Exercicio6S03.csproj.AssemblyReference.cache
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\obj\Debug\net7.0\Exercicio6S03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\obj\Debug\net7.0\Exercicio6S03.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\obj\Debug\net7.0\Exercicio6S03.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\obj\Debug\net7.0\Exercicio6S03.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\obj\Debug\net7.0\Exercicio6S03.dll
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\obj\Debug\net7.0\refint\Exercicio6S03.dll
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\obj\Debug\net7.0\Exercicio6S03.pdb
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\obj\Debug\net7.0\Exercicio6S03.genruntimeconfig.cache
+C:\Users\Meu computador\source\repos\Exercicio6S03\Exercicio6S03\obj\Debug\net7.0\ref\Exercicio6S03.dll

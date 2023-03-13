@@ -1,0 +1,15 @@
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\bin\Debug\net7.0\TratExcRegraDeNegocio.exe
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\bin\Debug\net7.0\TratExcRegraDeNegocio.deps.json
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\bin\Debug\net7.0\TratExcRegraDeNegocio.runtimeconfig.json
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\bin\Debug\net7.0\TratExcRegraDeNegocio.dll
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\bin\Debug\net7.0\TratExcRegraDeNegocio.pdb
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net7.0\TratExcRegraDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net7.0\TratExcRegraDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net7.0\TratExcRegraDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net7.0\TratExcRegraDeNegocio.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net7.0\TratExcRegraDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net7.0\TratExcRegraDeNegocio.dll
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net7.0\refint\TratExcRegraDeNegocio.dll
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net7.0\TratExcRegraDeNegocio.pdb
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net7.0\TratExcRegraDeNegocio.genruntimeconfig.cache
+C:\Users\Meu computador\source\repos\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net7.0\ref\TratExcRegraDeNegocio.dll

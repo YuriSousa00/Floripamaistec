@@ -1,0 +1,15 @@
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\obj\Debug\net7.0\Ex1SoliciteDoisNumeros.csproj.AssemblyReference.cache
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\obj\Debug\net7.0\Ex1SoliciteDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\obj\Debug\net7.0\Ex1SoliciteDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\obj\Debug\net7.0\Ex1SoliciteDoisNumeros.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\obj\Debug\net7.0\Ex1SoliciteDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\bin\Debug\net7.0\Ex1SoliciteDoisNumeros.exe
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\bin\Debug\net7.0\Ex1SoliciteDoisNumeros.deps.json
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\bin\Debug\net7.0\Ex1SoliciteDoisNumeros.runtimeconfig.json
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\bin\Debug\net7.0\Ex1SoliciteDoisNumeros.dll
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\bin\Debug\net7.0\Ex1SoliciteDoisNumeros.pdb
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\obj\Debug\net7.0\Ex1SoliciteDoisNumeros.dll
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\obj\Debug\net7.0\refint\Ex1SoliciteDoisNumeros.dll
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\obj\Debug\net7.0\Ex1SoliciteDoisNumeros.pdb
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\obj\Debug\net7.0\Ex1SoliciteDoisNumeros.genruntimeconfig.cache
+C:\Users\Meu computador\source\repos\Ex1SoliciteDoisNumeros\Ex1SoliciteDoisNumeros\obj\Debug\net7.0\ref\Ex1SoliciteDoisNumeros.dll

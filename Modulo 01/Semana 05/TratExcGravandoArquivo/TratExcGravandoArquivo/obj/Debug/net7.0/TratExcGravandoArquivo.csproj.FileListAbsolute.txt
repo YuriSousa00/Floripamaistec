@@ -1,0 +1,15 @@
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net7.0\TratExcGravandoArquivo.exe
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net7.0\TratExcGravandoArquivo.deps.json
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net7.0\TratExcGravandoArquivo.runtimeconfig.json
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net7.0\TratExcGravandoArquivo.dll
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net7.0\TratExcGravandoArquivo.pdb
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net7.0\TratExcGravandoArquivo.csproj.AssemblyReference.cache
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net7.0\TratExcGravandoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net7.0\TratExcGravandoArquivo.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net7.0\TratExcGravandoArquivo.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net7.0\TratExcGravandoArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net7.0\TratExcGravandoArquivo.dll
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net7.0\refint\TratExcGravandoArquivo.dll
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net7.0\TratExcGravandoArquivo.pdb
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net7.0\TratExcGravandoArquivo.genruntimeconfig.cache
+C:\Users\Meu computador\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net7.0\ref\TratExcGravandoArquivo.dll

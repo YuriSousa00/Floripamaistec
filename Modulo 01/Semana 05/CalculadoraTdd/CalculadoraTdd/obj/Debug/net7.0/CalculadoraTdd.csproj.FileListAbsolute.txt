@@ -1,0 +1,15 @@
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\bin\Debug\net7.0\CalculadoraTdd.exe
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\bin\Debug\net7.0\CalculadoraTdd.deps.json
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\bin\Debug\net7.0\CalculadoraTdd.runtimeconfig.json
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\bin\Debug\net7.0\CalculadoraTdd.dll
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\bin\Debug\net7.0\CalculadoraTdd.pdb
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\obj\Debug\net7.0\CalculadoraTdd.csproj.AssemblyReference.cache
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\obj\Debug\net7.0\CalculadoraTdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\obj\Debug\net7.0\CalculadoraTdd.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\obj\Debug\net7.0\CalculadoraTdd.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\obj\Debug\net7.0\CalculadoraTdd.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\obj\Debug\net7.0\CalculadoraTdd.dll
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\obj\Debug\net7.0\refint\CalculadoraTdd.dll
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\obj\Debug\net7.0\CalculadoraTdd.pdb
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\obj\Debug\net7.0\CalculadoraTdd.genruntimeconfig.cache
+C:\Users\Meu computador\source\repos\CalculadoraTdd\CalculadoraTdd\obj\Debug\net7.0\ref\CalculadoraTdd.dll

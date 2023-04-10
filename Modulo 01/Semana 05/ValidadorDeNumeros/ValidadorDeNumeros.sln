@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorDeNumeros", "ValidadorDeNumeros\ValidadorDeNumeros.csproj", "{CEFF7A9A-ED48-4502-B580-EEEFE1BDBED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorDeNumerosTest", "ValidadorDeNumerosTest\ValidadorDeNumerosTest.csproj", "{0EA382C9-46A2-41AA-8ADC-EB4162ABFD4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFF7A9A-ED48-4502-B580-EEEFE1BDBED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFF7A9A-ED48-4502-B580-EEEFE1BDBED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFF7A9A-ED48-4502-B580-EEEFE1BDBED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFF7A9A-ED48-4502-B580-EEEFE1BDBED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA382C9-46A2-41AA-8ADC-EB4162ABFD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA382C9-46A2-41AA-8ADC-EB4162ABFD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA382C9-46A2-41AA-8ADC-EB4162ABFD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA382C9-46A2-41AA-8ADC-EB4162ABFD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD130B55-9303-4FBD-9108-14B2A825D4E2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\bin\Debug\net7.0\ValidadorDeNumeros.exe
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\bin\Debug\net7.0\ValidadorDeNumeros.deps.json
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\bin\Debug\net7.0\ValidadorDeNumeros.runtimeconfig.json
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\bin\Debug\net7.0\ValidadorDeNumeros.dll
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\bin\Debug\net7.0\ValidadorDeNumeros.pdb
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\obj\Debug\net7.0\ValidadorDeNumeros.csproj.AssemblyReference.cache
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\obj\Debug\net7.0\ValidadorDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\obj\Debug\net7.0\ValidadorDeNumeros.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\obj\Debug\net7.0\ValidadorDeNumeros.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\obj\Debug\net7.0\ValidadorDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\obj\Debug\net7.0\ValidadorDeNumeros.dll
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\obj\Debug\net7.0\refint\ValidadorDeNumeros.dll
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\obj\Debug\net7.0\ValidadorDeNumeros.pdb
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\obj\Debug\net7.0\ValidadorDeNumeros.genruntimeconfig.cache
+C:\Users\Meu computador\source\repos\ValidadorDeNumeros\ValidadorDeNumeros\obj\Debug\net7.0\ref\ValidadorDeNumeros.dll

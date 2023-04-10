@@ -1,0 +1,1 @@
+ALTER TABLE Pedidos ALTER COLUMN datapedido TYPE VARCHAR();

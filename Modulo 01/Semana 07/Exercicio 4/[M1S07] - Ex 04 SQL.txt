@@ -1,0 +1,1 @@
+UPDATE Aluno SET Idade = 27 WHERE nome_aluno = 'Luiz Ricardo Soares' AND id = 3;

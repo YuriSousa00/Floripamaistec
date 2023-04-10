@@ -1,0 +1,1 @@
+UPDATE Aluno SET endereco = 'Av. Norte, 250, Recife-PE' WHERE id = 2;

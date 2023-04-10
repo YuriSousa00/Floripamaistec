@@ -1,0 +1,1 @@
+SELECT * FROM Table B LEFT JOIN Table A ON B.ID = A.ID ORDER BY Table A.Nome;

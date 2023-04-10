@@ -1,0 +1,10 @@
+Insert into Aluno (nome_aluno, idade) values ('Marcos', 19);
+Insert into Aluno (nome_aluno, idade) values ('Raquel', 33);
+Insert into Aluno (nome_aluno, idade) values ('Luan', 25);
+
+Insert into Disciplina (nome_disc, carga_hor) values ('Fisiologia', 60), ('Anatomia', 60), ('Biomecanica', 40);
+
+Insert into Professor (nome_prof, graduacao) values ('Suzana', 'Fisioterapia');
+Insert into Professor (nome_prof, graduacao) values ('Jose', 'Filosofia');
+Insert into Professor (nome_prof, graduacao) values ('Henrique', 'Musica');
+

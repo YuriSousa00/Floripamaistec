@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\M1S09 Criar modelos e contexto.props" />
+</Project>

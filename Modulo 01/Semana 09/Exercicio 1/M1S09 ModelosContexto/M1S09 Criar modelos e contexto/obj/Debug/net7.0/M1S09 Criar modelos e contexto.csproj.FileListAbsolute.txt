@@ -1,0 +1,33 @@
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\bin\Debug\net7.0\appsettings.json
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\bin\Debug\net7.0\M1S09 Criar modelos e contexto.exe
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\bin\Debug\net7.0\M1S09 Criar modelos e contexto.deps.json
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\bin\Debug\net7.0\M1S09 Criar modelos e contexto.runtimeconfig.json
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\bin\Debug\net7.0\M1S09 Criar modelos e contexto.dll
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\bin\Debug\net7.0\M1S09 Criar modelos e contexto.pdb
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\M1S09 Criar modelos e contexto.csproj.AssemblyReference.cache
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\M1S09 Criar modelos e contexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\M1S09 Criar modelos e contexto.AssemblyInfoInputs.cache
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\M1S09 Criar modelos e contexto.AssemblyInfo.cs
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\M1S09 Criar modelos e contexto.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\M1S09 Criar modelos e contexto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\M1S09 Criar modelos e contexto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\staticwebassets\msbuild.M1S09 Criar modelos e contexto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\staticwebassets\msbuild.build.M1S09 Criar modelos e contexto.props
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.M1S09 Criar modelos e contexto.props
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.M1S09 Criar modelos e contexto.props
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\scopedcss\bundle\M1S09 Criar modelos e contexto.styles.css
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\M1S09 Criar modelos e contexto.csproj.CopyComplete
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\M1S09 Criar modelos e contexto.dll
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\refint\M1S09 Criar modelos e contexto.dll
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\M1S09 Criar modelos e contexto.pdb
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\M1S09 Criar modelos e contexto.genruntimeconfig.cache
+C:\Users\Meu computador\source\repos\M1S09 Criar modelos e contexto\M1S09 Criar modelos e contexto\obj\Debug\net7.0\ref\M1S09 Criar modelos e contexto.dll

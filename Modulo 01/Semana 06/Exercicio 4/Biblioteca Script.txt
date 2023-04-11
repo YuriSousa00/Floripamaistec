@@ -1,0 +1,28 @@
+create table Categoria (
+Id int identity(1,1) primary key, 
+Cod_Categoria varchar (50) not null, 
+Descricao varchar (50) not null
+);
+
+create table Livros (
+Id int identity(1,1) primary key, 
+Isbn varchar (50) not null, 
+Titulo varchar (50) not null, 
+Ano_Editora Date not null, 
+Autor varchar (50) not null,
+Id_Categoria int references Categoria(id)
+);
+
+create table Autores (
+Id int identity(1,1) primary key, 
+Nome varchar (50) not null, 
+Nacionalidade varchar (50) not null
+);
+
+create table Autores_Livros (
+Id int primary key,
+Id_autores int,
+Id_Livros int
+foreign key (Id_Autores) references Autores(id),
+constraint fk_Livros_Autores foreign key (id_livros) references Livros(id)
+);

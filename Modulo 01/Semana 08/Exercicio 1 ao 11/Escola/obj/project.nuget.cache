@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vQyP6PEeO7BKSGcuLQswxDTv2h095LBMNM66OC/JGw52GzNKRB3bL8BAI/A0QvGXczC7C/eSoB/k7iO+cXT3dA==",
+  "dgSpecHash": "satRVuAmVZ1fBWIJ7wDIbN91EpFYBG96PFqvcnzIbSQXKvl08Mlw2o01htlhST049VnjkgM3OWv7sRm77z0n0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Meu computador\\Desktop\\Semana 08\\Escola\\Escola.csproj",
+  "projectFilePath": "C:\\Users\\Meu computador\\Desktop\\FloripaMaisTec\\Repositório 2\\Floripamaistec\\Modulo 01\\Semana 08\\Exercicio 1 ao 11\\Escola\\Escola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Meu computador\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\Meu computador\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

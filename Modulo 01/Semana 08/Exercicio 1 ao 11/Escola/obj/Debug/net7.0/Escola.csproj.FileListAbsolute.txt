@@ -31,3 +31,36 @@ C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Mod
 C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Escola\obj\Debug\net7.0\Escola.pdb
 C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Escola\obj\Debug\net7.0\Escola.genruntimeconfig.cache
 C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Escola\obj\Debug\net7.0\ref\Escola.dll
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\bin\Debug\net7.0\appsettings.json
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\bin\Debug\net7.0\Escola.exe
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\bin\Debug\net7.0\Escola.deps.json
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\bin\Debug\net7.0\Escola.runtimeconfig.json
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\bin\Debug\net7.0\Escola.dll
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\bin\Debug\net7.0\Escola.pdb
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\Escola.csproj.AssemblyReference.cache
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\Escola.AssemblyInfoInputs.cache
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\Escola.AssemblyInfo.cs
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\Escola.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\Escola.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\Escola.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\staticwebassets\msbuild.Escola.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\staticwebassets\msbuild.build.Escola.props
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Escola.props
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Escola.props
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\scopedcss\bundle\Escola.styles.css
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\Escola.csproj.CopyComplete
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\Escola.dll
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\refint\Escola.dll
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\Escola.pdb
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\Escola.genruntimeconfig.cache
+C:\Users\Meu computador\Desktop\FloripaMaisTec\Repositório 2\Floripamaistec\Modulo 01\Semana 08\Exercicio 1 ao 11\Escola\obj\Debug\net7.0\ref\Escola.dll

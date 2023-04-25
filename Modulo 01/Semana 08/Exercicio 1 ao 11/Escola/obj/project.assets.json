@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meu computador\\Desktop\\Semana 08\\Escola\\Escola.csproj",
+      "projectUniqueName": "C:\\Users\\Meu computador\\Desktop\\FloripaMaisTec\\Repositório 2\\Floripamaistec\\Modulo 01\\Semana 08\\Exercicio 1 ao 11\\Escola\\Escola.csproj",
       "projectName": "Escola",
-      "projectPath": "C:\\Users\\Meu computador\\Desktop\\Semana 08\\Escola\\Escola.csproj",
+      "projectPath": "C:\\Users\\Meu computador\\Desktop\\FloripaMaisTec\\Repositório 2\\Floripamaistec\\Modulo 01\\Semana 08\\Exercicio 1 ao 11\\Escola\\Escola.csproj",
       "packagesPath": "C:\\Users\\Meu computador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Meu computador\\Desktop\\Semana 08\\Escola\\obj\\",
+      "outputPath": "C:\\Users\\Meu computador\\Desktop\\FloripaMaisTec\\Repositório 2\\Floripamaistec\\Modulo 01\\Semana 08\\Exercicio 1 ao 11\\Escola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meu computador\\AppData\\Roaming\\NuGet\\NuGet.Config",
